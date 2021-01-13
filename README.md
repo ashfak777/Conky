@@ -4,6 +4,7 @@ This is a Conky configuration for kali linux that is drawn on your desktop backg
 # Screenshots
 
 ![kali_1).png](kali-linux/kali_1.png)
+<br>
 ![kali_2.png](kali-linux/kali_2.png)
 ![kali).png](kali-linux/kali.png)
 
